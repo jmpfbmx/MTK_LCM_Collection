@@ -2,6 +2,7 @@ WHAT IS THIS?
 ===================
  This is a LCM Collection for:
   * MTK Kernels
+  * LCMs are from others kernels sources, aren't extracted by me!!!
 
 INSTRUCTIONS!
 =============
